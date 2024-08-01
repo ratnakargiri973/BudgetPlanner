@@ -1,0 +1,18 @@
+.budget{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+}
+.budgetPlan{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.budgetPlan h2{
+    box-shadow: 0 2px 10px;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
